@@ -1,0 +1,5 @@
+package com.BikkadIT.FlightApi.config;
+
+public class SwaggerConfig {
+
+}

@@ -1,0 +1,5 @@
+package com.BikkadIT.FlightApi.controller;
+
+public class FlightController {
+
+}

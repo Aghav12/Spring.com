@@ -1,0 +1,5 @@
+package com.BikkadIT.MakeMyTripClientApp.service;
+
+public interface PassangerServiceI {
+
+}

@@ -1,0 +1,5 @@
+package com.BikkadIT.IRCTC.service;
+
+public interface Service {
+
+}

@@ -1,0 +1,5 @@
+package com.BikkadIT.FlightApi.service;
+
+public interface FlightService {
+
+}

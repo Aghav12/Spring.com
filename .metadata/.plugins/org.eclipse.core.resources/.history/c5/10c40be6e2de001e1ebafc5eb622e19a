@@ -1,0 +1,9 @@
+package com.BikkadIT.IRCTC.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.BikkadIT.IRCTC.model.Passanger;
+
+public interface PassangerRepository extends JpaRepository<Passanger, Integer> {
+
+}

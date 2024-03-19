@@ -1,0 +1,5 @@
+package com.BikkadIT.MakeMyTripClientApp.config;
+
+public class SwaggerConfig {
+
+}
